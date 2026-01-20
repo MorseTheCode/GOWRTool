@@ -1,0 +1,9 @@
+[submodule "glTF-SDK"]
+	path = glTF-SDK
+	url = https://github.com/microsoft/glTF-SDK
+[submodule "DirectXTex"]
+	path = DirectXTex
+	url = https://github.com/microsoft/DirectXTex
+[submodule "lz4"]
+	path = lz4
+	url = https://github.com/lz4/lz4
